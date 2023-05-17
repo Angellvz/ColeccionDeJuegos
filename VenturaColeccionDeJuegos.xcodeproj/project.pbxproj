@@ -14,6 +14,7 @@
 		581396512A1512F900778789 /* VenturaColeccionDeJuegos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 5813964F2A1512F900778789 /* VenturaColeccionDeJuegos.xcdatamodeld */; };
 		581396532A1512FA00778789 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 581396522A1512FA00778789 /* Assets.xcassets */; };
 		581396562A1512FA00778789 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 581396542A1512FA00778789 /* LaunchScreen.storyboard */; };
+		5813965E2A1521B100778789 /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5813965D2A1521B100778789 /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		581396522A1512FA00778789 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		581396552A1512FA00778789 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		581396572A1512FA00778789 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5813965D2A1521B100778789 /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				581396542A1512FA00778789 /* LaunchScreen.storyboard */,
 				581396572A1512FA00778789 /* Info.plist */,
 				5813964F2A1512F900778789 /* VenturaColeccionDeJuegos.xcdatamodeld */,
+				5813965D2A1521B100778789 /* JuegosViewController.swift */,
 			);
 			path = VenturaColeccionDeJuegos;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5813965E2A1521B100778789 /* JuegosViewController.swift in Sources */,
 				5813964B2A1512F900778789 /* ViewController.swift in Sources */,
 				581396472A1512F900778789 /* AppDelegate.swift in Sources */,
 				581396492A1512F900778789 /* SceneDelegate.swift in Sources */,
